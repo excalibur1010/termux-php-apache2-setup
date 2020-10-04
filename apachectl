@@ -110,13 +110,13 @@ esac
 if [ $ERROR -eq 0 ]
 then
     clear
-    termux-open-url http://localhost:8080/
+    termux-open-url http://localhost:8585/
 else
     clear
     echo "Address Already in use..."
-    echo "trying to ping http://localhost:8080/"
+    echo "trying to ping http://localhost:8585/"
     sleep 3
-    termux-open-url http://localhost:8080/
+    termux-open-url http://localhost:8585/
 fi
 
 
