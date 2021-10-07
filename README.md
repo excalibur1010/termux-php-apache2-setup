@@ -1,4 +1,4 @@
-Repositori untuk setup PHP dan Apache2 di android menggunakan Termux. Untuk tutorial lengkapnya bisa dicek di [sini](https://qadrlabs.com/post/detail/tutorial-instalasi-apache-web-server-dan-php-di-hp-android-menggunakan-termux).
+Repositori untuk setup PHP dan Apache2 di android menggunakan Termux. Untuk tutorial lengkapnya bisa dicek di [sini](https://qadrlabs.com/post/tutorial-instalasi-apache-web-server-dan-php-di-hp-android-menggunakan-termux).
 
 ## Instalasi
 Untuk instalasi php dan apache2. Buka termux, lalu run command ini:
